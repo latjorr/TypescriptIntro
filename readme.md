@@ -1,5 +1,5 @@
 README
-Introduction to  tytpescript with MayanWolf on twitch https://www.twitch.tv/mayanwolfe
+Introduction to Typescript with MayanWolf on twitch https://www.twitch.tv/mayanwolfe
 In this session, we covered several topics related to software development and programming. We discussed TypeScript, string interpolation, and function syntax, type aliases, and interfaces,using enums to define a set of named constants, and using the const keyword to define a constant value.
 
 TypeScript
